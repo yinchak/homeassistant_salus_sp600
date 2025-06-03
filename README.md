@@ -1,0 +1,1 @@
+# homeassistant_salus_sp600
